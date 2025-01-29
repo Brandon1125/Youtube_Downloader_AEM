@@ -41,3 +41,6 @@ python downloader.py
 ```
 
 El script descargará todos los videos del canal especificado en la carpeta `videos`.
+
+## Errores
+En dado caso que se detenga la descarga, vuelve a ejecutar el script y volverá a reanudar la descarga desde el último video descargado.
